@@ -14,7 +14,7 @@ The [Ethernaut](https://ethernaut.openzeppelin.com/) is a Web3/Solidity based wa
 | 5. Token           | [Notes Here](LEVELS/5.Token.md)           | ✅     |
 | 6. Delegation      | [Notes Here](LEVELS/6.Delegation.md)      | ✅     |
 | 7. Force           | [Notes Here](LEVELS/7.Force.md)           | ✅     |
-| 8. Vault           | [Notes Here](LEVELS/8.Vault.md)           |        |
+| 8. Vault           | [Notes Here](LEVELS/8.Vault.md)           | ✅     |
 | 9. King            | [Notes Here](LEVELS/9.King.md)            |        |
 | 10. Re-entrancy    | [Notes Here](LEVELS/10.Re-entrancy.md)    |        |
 | 11. Elevator       | [Notes Here](LEVELS/11.Elevator.md)       |        |
